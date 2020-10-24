@@ -1,6 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Juby Varughese</title><link>https://juby-gif.github.io/page/</link><description>Recent content in Pages on Juby Varughese</description><generator>Hugo -- gohugo.io</generator><managingEditor>juby@bcinnovationlabs.com (Juby Varughese)</managingEditor><webMaster>juby@bcinnovationlabs.com (Juby Varughese)</webMaster><atom:link href="https://juby-gif.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://juby-gif.github.io/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>juby@bcinnovationlabs.com (Juby Varughese)</author><guid>https://juby-gif.github.io/page/about/</guid><description>Who am I? Full Stack Developer, I develop web-apps using the Agile methodology and I am exact in research that I do, to validate customer needs to ensure I am building a product feature that solves a customer pain. This attention to detail, and to my customer’s needs, creates a user experience that puts the customer first. It is important to me, to build products, that help people, and are focused on solving bigger societal issues.</description></item><item><title>Projects</title><link>https://juby-gif.github.io/page/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>juby@bcinnovationlabs.com (Juby Varughese)</author><guid>https://juby-gif.github.io/page/projects/</guid><description>The Projects i have done for companies:
-INNOVATION SPACE
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Juby Varughese</title>
+    <link>https://juby-gif.github.io/page/</link>
+    <description>Recent content in Pages on Juby Varughese</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>juby@bcinnovationlabs.com (Juby Varughese)</managingEditor>
+    <webMaster>juby@bcinnovationlabs.com (Juby Varughese)</webMaster>
+    
+	<atom:link href="https://juby-gif.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://juby-gif.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>juby@bcinnovationlabs.com (Juby Varughese)</author>
+      <guid>https://juby-gif.github.io/page/about/</guid>
+      <description>Who am I? Full Stack Developer, I develop web-apps using the Agile methodology and I am exact in research that I do, to validate customer needs to ensure I am building a product feature that solves a customer pain. This attention to detail, and to my customer’s needs, creates a user experience that puts the customer first. It is important to me, to build products, that help people, and are focused on solving bigger societal issues.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://juby-gif.github.io/page/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>juby@bcinnovationlabs.com (Juby Varughese)</author>
+      <guid>https://juby-gif.github.io/page/projects/</guid>
+      <description>The Projects i have done for companies:
+  INNOVATION SPACE
 I was the Team Leader on a project that developed a digital community portal for the early stage entrepreneurs for BCI Innovation labs, a local non-profit education provider.
-CANADIAN TALENT ACCELERATOR
-I developed a Job Portal to attract International tech talent professionals to Canada for IIAD Global. The portal has an employment form, single sign on with LinkedIn and Google, employees can put up the new job posting, and candidates have their space to get registered and look for jobs with different searching parameters.</description></item><item><title>References</title><link>https://juby-gif.github.io/page/references/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>juby@bcinnovationlabs.com (Juby Varughese)</author><guid>https://juby-gif.github.io/page/references/</guid><description>I have hired Juby as a contract full-stack developer for number of my projects and the results have been spectacular!
-The first line of work involved writing a prototype frontend web-app using React.js. He accomplished it in a short amount of time with a high quality fully responsive build. When our team presented Juby&amp;rsquo;s work to the client, the client became very pleased. He demonstrated understanding for HTML, CSS, React.</description></item></channel></rss>
+  CANADIAN TALENT ACCELERATOR
+I developed a Job Portal to attract International tech talent professionals to Canada for IIAD Global. The portal has an employment form, single sign on with LinkedIn and Google, employees can put up the new job posting, and candidates have their space to get registered and look for jobs with different searching parameters.</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>https://juby-gif.github.io/page/references/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>juby@bcinnovationlabs.com (Juby Varughese)</author>
+      <guid>https://juby-gif.github.io/page/references/</guid>
+      <description>I have hired Juby as a contract full-stack developer for number of my projects and the results have been spectacular!
+The first line of work involved writing a prototype frontend web-app using React.js. He accomplished it in a short amount of time with a high quality fully responsive build. When our team presented Juby&amp;rsquo;s work to the client, the client became very pleased. He demonstrated understanding for HTML, CSS, React.</description>
+    </item>
+    
+  </channel>
+</rss>
